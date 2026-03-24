@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/ainhoa-dani-postcard.html" }]
+}
