@@ -1,3 +1,5 @@
 {
-  "rewrites": [{ "source": "/", "destination": "/ainhoa-dani-postcard.html" }]
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "framework": null
 }
